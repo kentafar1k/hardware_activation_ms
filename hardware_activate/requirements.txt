@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+aio_pika
+aiohttp
+pika
