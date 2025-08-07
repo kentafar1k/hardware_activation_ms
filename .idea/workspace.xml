@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="723fe27a-a294-4e7c-8748-70ce774b59d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hardware_activate/service_a/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hardware_activate/service_b/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardware_activate/service_a/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/hardware_activate/service_a/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardware_activate/service_b/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/hardware_activate/service_b/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardware_activate/worker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/hardware_activate/worker/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_main.http" beforeDir="false" afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +26,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kentafar1k"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kentafar1k/hardware_activation_ms.git",
+    "accountId": "1936cc11-563b-4346-8b74-b0310a6fa8c1"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -29,11 +53,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/programming/hardware_activate/hardware_activate/service_a",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\programming\hardware_activate\hardware_activate\service_a" />
+      <recent name="E:\programming\hardware_activate\hardware_activate\service_b" />
+      <recent name="E:\programming\hardware_activate\hardware_activate\worker" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="hardware_activate" type="Python.FastAPI">
       <option name="file" value="$PROJECT_DIR$/main.py" />
@@ -67,8 +103,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754568347117</updated>
-      <workItem from="1754568348653" duration="18000" />
+      <workItem from="1754568348653" duration="3193000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
